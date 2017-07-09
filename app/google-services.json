@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "117217849238",
+    "firebase_url": "https://training-and-placement-office.firebaseio.com",
+    "project_id": "training-and-placement-office",
+    "storage_bucket": "training-and-placement-office.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117217849238:android:3c50009e6821a4da",
+        "android_client_info": {
+          "package_name": "com.example.debjyoti.tpo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117217849238-fndgfnk4ffohcjdi9lv1k750j9shbo6g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.debjyoti.tpo_app",
+            "certificate_hash": "71444935c7d90cf60c9cd92686eb55c82eff5e77"
+          }
+        },
+        {
+          "client_id": "117217849238-rsesnn638b6urguet1jpap18a3pei7rv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvTlaAk8CoyFcvuQwkXhqgle4jbRbInoY"
+        },
+        {
+          "current_key": "AIzaSyA0XyQfOQc-TYrJUrXgp-Fcx8RyKj0kY0E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117217849238-rsesnn638b6urguet1jpap18a3pei7rv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117217849238:android:1cb8350fcbf31e9f",
+        "android_client_info": {
+          "package_name": "com.example.debjyoti.tpo_spit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117217849238-nj72abu9ofld6dqai5nhdmk31g305con.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.debjyoti.tpo_spit",
+            "certificate_hash": "71444935c7d90cf60c9cd92686eb55c82eff5e77"
+          }
+        },
+        {
+          "client_id": "117217849238-rsesnn638b6urguet1jpap18a3pei7rv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvTlaAk8CoyFcvuQwkXhqgle4jbRbInoY"
+        },
+        {
+          "current_key": "AIzaSyA0XyQfOQc-TYrJUrXgp-Fcx8RyKj0kY0E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117217849238-rsesnn638b6urguet1jpap18a3pei7rv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

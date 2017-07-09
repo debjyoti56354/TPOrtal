@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_send_"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.debjyoti.tpo_spit.Edit_profile"
+    android:weightSum="1">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="10dp" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorAccent"
+        android:textSize="20dp"
+        android:id="@+id/name"
+        android:gravity="center"
+        android:hint="Enter Name" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="20dp" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorAccent"
+        android:textSize="20dp"
+        android:gravity="center"
+
+        android:id="@+id/classname"
+        android:hint="Enter Class" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="20dp" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorAccent"
+        android:textSize="20dp"
+        android:id="@+id/ten"
+        android:gravity="center"
+        android:hint="Enter 10th Percentage" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="20dp" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorAccent"
+        android:textSize="20dp"
+        android:id="@+id/twelve"
+        android:gravity="center"
+
+        android:inputType="textEmailAddress"
+        android:hint="Enter 12th Percentage" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="20dp" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="@color/colorAccent"
+        android:textSize="20dp"
+        android:id="@+id/cgpa"
+        android:layout_gravity="center"
+        android:inputType="textEmailAddress"
+
+        android:hint="Enter CGPA" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="20dp" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="@color/colorAccent"
+        android:textSize="20dp"
+        android:id="@+id/kt"
+        android:layout_gravity="center"
+        android:inputType="textEmailAddress"
+
+        android:hint="Enter No. of KTs" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="20dp" />
+
+
+    <Button
+        android:id="@+id/update"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="bottom"
+
+        android:layout_marginBottom="10dp"
+        android:background="#0097A7"
+        android:text="Update" />/>
+</LinearLayout>
